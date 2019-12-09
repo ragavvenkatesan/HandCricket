@@ -20,4 +20,4 @@ batsman (who was the original bowler) to chase down the target set by the first 
 batsman wins.
 
 This codebase contains abstract classes for Sooli that we both developed while I was on vacation.
-The example code uses some 'random' players to play the wonderful game of 'Sooli'!
+The [example]('example.py') file uses some 'random' players to play the wonderful game of 'Sooli'!
